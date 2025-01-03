@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "178767984676",
+    "project_id": "mobilecomputingproject-63260",
+    "storage_bucket": "mobilecomputingproject-63260.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178767984676:android:b40ff5d8c1d1ebeb4f00b1",
+        "android_client_info": {
+          "package_name": "com.example.mobilecomputing_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1yV8jk4dWmgN5DRtjKwXVkjRQ8x48TCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
