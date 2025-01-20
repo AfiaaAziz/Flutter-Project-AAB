@@ -36,7 +36,7 @@ AAB is a mobile app dedicated to showcasing elegant and stylish abayas for all o
 
 
 
-![App Preview](path-to-screenshot)  
+![App Preview](https://github.com/AfiaaAziz/Flutter-Project-AAB/blob/main/app%20screen%20shots/1.jpg) 
 
 
 ---
