@@ -35,7 +35,7 @@ AAB is a mobile app dedicated to showcasing elegant and stylish abayas for all o
 ---
 
 
-### 📷 Sneak Peek
+
 ![App Preview](path-to-screenshot)  
 
 
